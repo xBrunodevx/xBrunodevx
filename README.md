@@ -17,4 +17,5 @@
  <img aling="center" alt="JS" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-<div> <h3>Eu sou Bruno, um estudante desenvolvedor front-end, atualmente em fase de aprendizado e determinado a crescer. Meu foco é construir uma base sólida como Fornt-End e Full-Stack aplicando cada conhecimento em projetos que me desafiem e aprimorem minhas habilidades.</h3> </div>
+<div> <h3>Sou um desenvolvedor front-end com ampla experiência em criar interfaces web eficientes e de alta qualidade. Domínio de HTML, CSS, JavaScript e React, o que me permite construir aplicações dinâmicas e responsivas que atendam às necessidades dos usuários. Também tenho experiência com WordPress, criando sites personalizados e otimizados, além de Python, que utilizo para desenvolver soluções no back-end e integrar funcionalidades
+Minha abordagem de desenvolvimento é focada em desempenho, usabilidade e boas práticas, como versionamento com Git, testes automatizados e design responsivo. Tenho experiência em trabalhar de forma colaborativa em equipes ágeis, contribuindo para o sucesso de projetos de diferentes.</h3> </div>
