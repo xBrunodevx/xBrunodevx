@@ -14,6 +14,7 @@
   <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
    <img aling="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img aling="center" alt="JS" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+ <img aling="center" alt="JS" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <div> <h3>Eu sou Bruno, um estudante desenvolvedor front-end, atualmente em fase de aprendizado e determinado a crescer. Meu foco é construir uma base sólida como Fornt-End e Full-Stack aplicando cada conhecimento em projetos que me desafiem e aprimorem minhas habilidades.</h3> </div>
