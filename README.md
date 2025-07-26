@@ -13,5 +13,6 @@
  <img aling="center" alt="JS" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-<div> <h3>Sou um desenvolvedor front-end com ampla experiência em criar interfaces web eficientes e de alta qualidade. Domínio de HTML, CSS, JavaScript e React, o que me permite construir aplicações dinâmicas e responsivas que atendam às necessidades dos usuários. Também tenho experiência com WordPress, criando sites personalizados e otimizados, além de Python, que utilizo para desenvolver soluções no back-end e integrar funcionalidades.
-Minha abordagem de desenvolvimento é focada em desempenho, usabilidade e boas práticas, como versionamento com Git, testes automatizados e design responsivo.</h3> </div>
+<div> <h3>🎓 Estudante em Implementação de Inteligência Artificial
+Atualmente explorando machine learning com Python, automação de tarefas e integração de modelos de IA em aplicações web. Apaixonado por tecnologia, arte e inovação, busco unir criatividade com soluções inteligentes para o mundo real.
+Em constante aprendizado, desenvolvendo projetos próprios e compartilhando minha evolução aqui no GitHub.</h3> </div>
