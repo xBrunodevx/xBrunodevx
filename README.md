@@ -5,7 +5,7 @@
 [![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548984780087)
 
 
-![Bruno GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xBrunodevx=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=xBrunodevx&show_icons=true&theme=radical)
 
 ### Tecnologias 👨‍💻
 <div style="display: inline_block"><br/>
