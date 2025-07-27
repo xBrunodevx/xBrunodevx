@@ -2,7 +2,7 @@
 
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandes.dev.py/)
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=xBrunodevx&hide=contribs,prs)
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=xBrunodevx&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 
