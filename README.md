@@ -7,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xBrunodevx&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-## Tecnologias 👨‍💻
+#Tecnologias 👨‍💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
