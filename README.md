@@ -1,4 +1,4 @@
-### Perfil 🖖
+### Oi eu sou o Bruno Fernandes, estudante programação e tecnologia com Python! 🖖
 
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandes.dev.py/)
 
@@ -11,6 +11,5 @@
 ### Tecnologias 👨‍💻
 <div style="display: inline_block"><br/>
 
-<img align="center" rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 </div>
