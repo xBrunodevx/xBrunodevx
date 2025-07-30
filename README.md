@@ -1,4 +1,4 @@
-### Oi eu sou o Bruno Fernandes, estudante de programação e tecnologia com Python! 🖖
+### Oi eu sou o Bruno Fernandes, estudante de programação e tecnologia com Python! 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xBrunodevx&show_icons=true&theme=radical" />
