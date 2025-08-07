@@ -8,9 +8,15 @@
 </a>
 
 ## Tecnologias 👨‍💻
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<div class="grid-skills">
+      <i class="devicon-python-plain colored" title="Python"></i>
+      <i class="devicon-sqlite-plain colored" title="SQLite"></i>
+      <i class="devicon-html5-plain colored" title="HTML5"></i>
+      <i class="devicon-css3-plain colored" title="CSS3"></i>
+      <i class="devicon-javascript-plain colored" title="JavaScript"></i>
+      <i class="devicon-react-plain colored" title="React"></i>
+      <i class="devicon-django-plain colored" title="Django"></i>
+    </div>
 
 ##
   
