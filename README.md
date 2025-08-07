@@ -8,7 +8,7 @@
 </a>
 
 ## Tecnologias 👨‍💻
-<div>
+<div
 <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <a href="https://www.sqlite.org/" target="_blank" style="text-decoration: none;">
