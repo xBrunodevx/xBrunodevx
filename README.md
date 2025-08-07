@@ -26,11 +26,9 @@
 <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 
-<a href="https://www.djangoproject.com/" target="_blank" style="text-decoration: none;">
+<a href="https://www.djangoproject.com/" target="blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </a>
-
----
 
 ##
 <a href="https://www.linkedin.com/in/SEU_USUARIO_AQUI/" target="_blank" style="text-decoration: none;">
