@@ -17,7 +17,7 @@
 <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 
-<a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none;">
+<a href="https://www.w3schools.com/css/" target="blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
@@ -26,7 +26,7 @@
 <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 
-<a href="https://www.djangoproject.com/" target="blank" style="text-decoration: none;">
+<a href="https://www.djangoproject.com/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </a>
 
