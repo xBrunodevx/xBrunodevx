@@ -8,7 +8,7 @@
 </a>
 
 ## Tecnologias 👨‍💻
-<div>
+
 <p href="https://www.python.org" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <p href="https://www.sqlite.org/" target="_blank" style="text-decoration: none;">
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 <p href="https://www.djangoproject.com/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-</div>
+
 
 ##
 <div>
