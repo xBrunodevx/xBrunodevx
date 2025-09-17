@@ -16,6 +16,17 @@
   </tr>
 </table>
 
+## Contatos
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/xbruno-fernandesx/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/obruno.lion/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" alt="Instagram"/>
+  </a>
+</p>
+
 
 ## Skills
 
