@@ -8,8 +8,7 @@
   <tr>
     <td>
       <b>Sobre mim</b><br>
-      Sou um desenvolvedor apaixonado por tecnologia, com experiência em backend e frontend.<br>
-      Gosto de criar soluções eficientes e escaláveis, sempre aprendendo novas ferramentas e linguagens.
+      Sou estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi, em processo de formação como desenvolvedor Fullstack. Meu foco atual está nos fundamentos da programação e na construção de uma base sólida para estruturar minha carreira em tecnologia.
     </td>
     <td>
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZybXVrbDV0dHp1Y3pkbWRtam04NzUwbmRqbmwxZGxjOTJubTBsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10DT9obievd8NW/giphy.gif" width="200" alt="Coding Animation"/>
