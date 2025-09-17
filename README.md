@@ -1,11 +1,4 @@
 <!-- Perfil animado para README do GitHub -->
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius: 50%" alt="Minha Foto de Perfil"/>
-</p>
-
-<h1 align="center">Olá, sejam bem-vindos ao meu perfil! 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7B32B&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+GitHub!;Desenvolvedor+Fullstack;Python+%7C+Django+%7C+React+%7C+Docker+e+mais!" alt="Typing SVG" />
 </p>
@@ -14,11 +7,11 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia, com experiência em backend e frontend. Gosto de criar soluções eficientes e escaláveis, sempre aprendendo novas ferramentas e linguagens.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi, em processo de formação como desenvolvedor Fullstack. Meu foco atual está nos fundamentos da programação e na construção de uma base sólida para estruturar minha carreira em tecnologia.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
