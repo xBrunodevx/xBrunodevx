@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7B32B&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+GitHub!;Desenvolvedor+Fullstack;Python+%7C+Django+%7C+%7C+Docker+e+mais!" alt="Typing SVG" />
 </p>
 
----
 
 <table>
   <tr>
@@ -13,12 +12,11 @@
       Gosto de criar soluções eficientes e escaláveis, sempre aprendendo novas ferramentas e linguagens.
     </td>
     <td>
-      <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZybXVrbDV0dHp1Y3pkbWRtam04NzUwbmRqbmwxZGxjOTJubTBsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10DT9obievd8NW/giphy.gif)" width="200" alt="Coding Animation"/>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZybXVrbDV0dHp1Y3pkbWRtam04NzUwbmRqbmwxZGxjOTJubTBsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10DT9obievd8NW/giphy.gif" width="200" alt="Coding Animation"/>
     </td>
   </tr>
 </table>
 
----
 
 ## Skills
 
@@ -33,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
 </p>
-
----
 
 #
 
