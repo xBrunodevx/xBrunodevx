@@ -1,6 +1,6 @@
 <!-- Perfil animado para README do GitHub -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7B32B&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+GitHub!;Desenvolvedor+Fullstack;Python+%7C+Django+%7C+React+%7C+Docker+e+mais!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7B32B&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+GitHub!;Desenvolvedor+Fullstack;Python+%7C+Django+%7C+%7C+Docker+e+mais!" alt="Typing SVG" />
 </p>
 
 ---
