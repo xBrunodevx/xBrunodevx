@@ -5,9 +5,18 @@
 
 ---
 
-## Sobre mim
-
-Sou estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi, em processo de formação como desenvolvedor Fullstack. Meu foco atual está nos fundamentos da programação e na construção de uma base sólida para estruturar minha carreira em tecnologia.
+<table>
+  <tr>
+    <td>
+      <b>Sobre mim</b><br>
+      Sou um desenvolvedor apaixonado por tecnologia, com experiência em backend e frontend.<br>
+      Gosto de criar soluções eficientes e escaláveis, sempre aprendendo novas ferramentas e linguagens.
+    </td>
+    <td>
+      <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZybXVrbDV0dHp1Y3pkbWRtam04NzUwbmRqbmwxZGxjOTJubTBsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10DT9obievd8NW/giphy.gif)" width="200" alt="Coding Animation"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -26,14 +35,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi, em proces
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Coding Animation"/>
-</p>
-
-<!-- Dica: Substitua o link da imagem de perfil pelo seu avatar do GitHub. -->
-<!-- Você pode customizar o texto animado em https://readme-typing-svg.demolab.com/ -->
-<!-- Ícones retirados de https://devicon.dev/ -->
 
 #
 
