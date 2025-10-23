@@ -19,12 +19,16 @@ Profissionalmente, sou Desenvolvedor Full Stack, com experiência prática na cr
 ## Contatos
 
 <p align="left">
-  <td href="https://www.linkedin.com/in/xbruno-fernandesx/" target="_blank">
+  <td>
+  <a href="https://www.linkedin.com/in/xbruno-fernandesx/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/>
-  </td>
-  <td href="https://www.instagram.com/obruno.lion/" target="_blank">
+  </a>
+</td>
+  <td>
+  <a href="https://www.instagram.com/obruno.lion/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="32" alt="Instagram"/>
-  </td>
+  </a>
+</td>
 </p>
 
 
