@@ -24,6 +24,8 @@ Profissionalmente, sou Desenvolvedor Full Stack, com experiência prática na cr
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/>
   </a>
 </td>
+</p>
+<p>
   <td>
   <a href="https://www.instagram.com/obruno.lion/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="32" alt="Instagram"/>
