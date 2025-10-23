@@ -8,7 +8,10 @@
   <tr>
     <td>
       <b>Sobre mim</b><br>
-      Sou estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi, em processo de formação como desenvolvedor Fullstack. Meu foco atual está nos fundamentos da programação e na construção de uma base sólida para estruturar minha carreira em tecnologia.
+     "Meu cérebro é mais do que algo meramente mortal, e o tempo mostrará isso." Ada Lovelace
+
+Sou Bruno Fernandes, desenvolvedor e entusiasta de tecnologia, arte e inovação. Natural de Belém (PA) e morando há 6 anos em Joinville, Santa Catarina, encontrei na programação a forma perfeita de unir criatividade e lógica.
+Profissionalmente, sou Desenvolvedor Full Stack, com experiência prática na criação de sites, sistemas e aplicações completas, do backend à interface visual. Tenho perfil autodidata, disciplinado e focado em resultado, sempre buscando novas formas de evoluir tecnicamente e entregar soluções que façam a diferença.
     </td>
     <td>
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZybXVrbDV0dHp1Y3pkbWRtam04NzUwbmRqbmwxZGxjOTJubTBsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10DT9obievd8NW/giphy.gif" width="200" alt="Coding Animation"/>
