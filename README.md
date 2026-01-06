@@ -3,7 +3,7 @@
   <a href="https://www.instagram.com/obruno.fer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
-### Sobre mim
+### Fala Pessoal!
 Sou Desenvolvedor Back-End Python, em transição de carreira para tecnologia, com foco no desenvolvimento de APIs REST, automação de processos e soluções orientadas a dados.
 Atuo há pouco mais de 1 ano em projetos práticos, utilizando Python, Django e Django REST Framework, desenvolvendo backends completos com:
 Autenticação e controle de permissões (JWT)
