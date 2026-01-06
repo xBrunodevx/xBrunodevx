@@ -6,10 +6,15 @@
 ### Fala Pessoal!
 Sou Desenvolvedor Back-End Python, em transição de carreira para tecnologia, com foco no desenvolvimento de APIs REST, automação de processos e soluções orientadas a dados.
 Atuo há pouco mais de 1 ano em projetos práticos, utilizando Python, Django e Django REST Framework, desenvolvendo backends completos com:
+
 Autenticação e controle de permissões (JWT)
+
 Organização de código e separação de responsabilidades
+
 Documentação de APIs (OpenAPI / Swagger)
+
 Boas práticas de Clean Code e foco em escalabilidade
+
 Também desenvolvo projetos de automação e pipelines de dados, aplicando Python e pandas para ETL, tratamento de dados e geração de relatórios executivos (PDF), sempre pensando em arquitetura modular e possibilidade de evolução para APIs ou aplicações web.
 Minha experiência anterior como vendedor e consultor contribuiu para habilidades importantes como comunicação clara, entendimento de requisitos, responsabilidade com prazos e visão de negócio — aplicadas diretamente no desenvolvimento de software.
 
