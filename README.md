@@ -4,15 +4,21 @@
 </p>
 
 ### Sobre mim
-Sou Desenvolvedor Back-End Python, em transição de carreira para tecnologia, com foco no desenvolvimento de APIs REST, automação de processos e análise de dados.
+Sou Desenvolvedor Back-End Python, em transição de carreira para tecnologia, com foco no desenvolvimento de APIs REST, automação de processos e soluções orientadas a dados.
 
-Atuo há pouco mais de 1 ano em projetos práticos utilizando Python, Django e Django REST Framework, desenvolvendo soluções completas de back-end com autenticação, controle de permissões, organização de código e documentação de APIs. Tenho forte preocupação com Clean Code, separação de responsabilidades e escalabilidade das aplicações.
+Atuo há pouco mais de 1 ano em projetos práticos, utilizando Python, Django e Django REST Framework, desenvolvendo backends completos com:
 
-Paralelamente, desenvolvo projetos de automação e pipelines de dados, aplicando Python e pandas para ETL, tratamento de dados e geração de relatórios executivos em PDF, sempre pensando em arquitetura modular e possibilidade de evolução para integrações via API ou aplicações web.
+Autenticação e controle de permissões (JWT)
 
-Minha experiência anterior como vendedor e consultor me trouxe diferenciais importantes como comunicação clara, entendimento de necessidades do cliente, responsabilidade com prazos e visão de negócio, habilidades que aplico diretamente no desenvolvimento de software.
+Organização de código e separação de responsabilidades
 
-Atualmente, busco minha primeira oportunidade formal em tecnologia como Estagiário, Trainee ou Desenvolvedor Back-End Python Júnior, com grande disposição para aprender, evoluir rápido e contribuir de forma consistente com o time.
+Documentação de APIs (OpenAPI / Swagger)
+
+Boas práticas de Clean Code e foco em escalabilidade
+
+Também desenvolvo projetos de automação e pipelines de dados, aplicando Python e pandas para ETL, tratamento de dados e geração de relatórios executivos (PDF), sempre pensando em arquitetura modular e possibilidade de evolução para APIs ou aplicações web.
+
+Minha experiência anterior como vendedor e consultor contribuiu para habilidades importantes como comunicação clara, entendimento de requisitos, responsabilidade com prazos e visão de negócio — aplicadas diretamente no desenvolvimento de software.
 
 ### Skills
 <p align="center">
