@@ -1,6 +1,6 @@
 <!-- Hero com efeito de digitação -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Sou+Desenvolvedor+Back-End+Python;APIs+REST%2C+Automação+e+Dados;Clean+Code%2C+segurança+e+escalabilidade;Pronto+para+entregar+valor+em+time" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Back-End+Python+Developer;APIs+REST%2C+Automação+e+Dados;Clean+Code%2C+Segurança+e+Escalabilidade;Pronto+para+entregar+valor+em+time" alt="Typing animation" />
 </p>
 
 <!-- Social -->
@@ -13,24 +13,24 @@
 ### Sobre mim
 Sou Desenvolvedor Back-End Python, em transição de carreira para tecnologia, com foco no desenvolvimento de APIs REST, automação de processos e análise de dados.
 
-Atuo há pouco mais de 1 ano em projetos práticos utilizando Python, Django e Django REST Framework, desenvolvendo soluções completas de back-end com autenticação, controle de permissões, organização de código e documentação de APIs. Tenho forte preocupação com Clean Code, separação de responsabilidades e escalabilidade das aplicações.
+Atuo há pouco mais de 1 ano em projetos práticos com Python, Django e Django REST Framework, entregando back-ends completos com autenticação, permissões, código organizado e documentação de APIs. Prezo por Clean Code, separação de responsabilidades e escalabilidade.
 
-Paralelamente, desenvolvo projetos de automação e pipelines de dados, aplicando Python e pandas para ETL, tratamento de dados e geração de relatórios executivos em PDF, sempre pensando em arquitetura modular e possibilidade de evolução para integrações via API ou aplicações web.
+Também desenvolvo automações e pipelines de dados com Python e pandas para ETL, tratamento de dados e relatórios executivos em PDF, pensando em arquitetura modular e evolutiva para integrações via API ou web.
 
-Minha experiência anterior como vendedor e consultor me trouxe diferenciais importantes como comunicação clara, entendimento de necessidades do cliente, responsabilidade com prazos e visão de negócio, habilidades que aplico diretamente no desenvolvimento de software.
+Minha experiência como vendedor e consultor reforça comunicação clara, entendimento de necessidades, compromisso com prazos e visão de negócio — aplico isso direto no desenvolvimento.
 
-Atualmente, busco minha primeira oportunidade formal em tecnologia como Estagiário, Trainee ou Desenvolvedor Back-End Python Júnior, com grande disposição para aprender, evoluir rápido e contribuir de forma consistente com o time.
+Busco minha primeira oportunidade formal como Estagiário, Trainee ou Desenvolvedor Back-End Python Júnior, com disposição para aprender rápido e contribuir com o time.
 
 <!-- Skills com ícones -->
 ### Skills
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Back-End Python Developer" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" title="APIs REST" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="APIs REST" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Data Analysis" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Back-End Python" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" title="Django / DRF" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Data / ETL" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="DB" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" title="Deploy" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" title="CI/CD" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" title="Containers" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="CI/CD" width="48" />
 </p>
 
 <!-- Métricas -->
@@ -39,7 +39,6 @@ Atualmente, busco minha primeira oportunidade formal em tecnologia como Estagiá
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=xBrunodevx&show_icons=true&theme=radical&hide_border=true&rank_icon=github&custom_title=Performance" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=xBrunodevx&theme=radical&hide_border=true" alt="Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xBrunodevx&theme=radical" alt="Repos per language (pie)" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xBrunodevx&theme=radical&utcOffset=3" alt="Commit timeline" />
@@ -49,8 +48,8 @@ Atualmente, busco minha primeira oportunidade formal em tecnologia como Estagiá
 ### Tech focus rápido
 - APIs REST seguras e documentadas (Django/DRF/FastAPI)
 - Automação e ETL com pandas
-- CI/CD básico (GitHub Actions), conteinerização (Docker)
-- Boas práticas: Clean Code, separação de responsabilidades, logs e observabilidade inicial
+- CI/CD básico (GitHub Actions) e conteinerização (Docker)
+- Boas práticas: Clean Code, responsabilidade por logs e observabilidade inicial
 
 <!-- Call to action -->
 ### Vamos conversar?
