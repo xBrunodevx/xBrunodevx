@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Back-End+Python+Developer;APIs+REST+%7C+Automação+%7C+Dados" alt="Typing animation" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/bruno-fe-feitosa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/obruno.fer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
@@ -26,11 +22,5 @@ Atualmente, busco minha primeira oportunidade formal em tecnologia como Estagiá
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Data / ETL" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="DB" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" title="Containers" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="CI/CD" width="42" />
 </p>
 
-### Métricas
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xBrunodevx&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=xBrunodevx&theme=radical&hide_border=true" alt="Streak" />
-</p>
